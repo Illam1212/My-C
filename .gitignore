@@ -1,3 +1,2 @@
-cal.exe
-calculator.exe
+*.exe
 *.o
